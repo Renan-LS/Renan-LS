@@ -1,13 +1,28 @@
 <h1 align="center">Olá! 👋, Sou Renan L.</h1>
-<h3 align="center">Um engenheiro apaixonado por dados!</h3>
+Sou analista de BI e tenho como objetivo crescer na área de dados, seja como cientista, engenheiro ou até analista de dados. Acredito que a análise de dados é fundamental para a tomada de decisões assertivas, e é por isso que busco me aprimorar cada vez mais nessa área.
 
-- 🌱 Atualmente estou estudando a respeito de **processos de extração,transformação e carregamento de dados, bem como todas tecnologias correlatas**
+<h2 align="center">Tecnologias e Habilidades</h2>
+As tecnologias com as quais tenho mais afinidade e costumo utilizar em meus projetos são:
 
-- 👨‍💻 Todos meus projetos podem ser vistos aqui [github.com/Renan-LS](github.com/Renan-LS)
 
-- 💬 Pergunte-me sobre **Python - SQL - ETL**
 
-- 📫 Contato **renanlopesdasilva@gmail.com**
+
+ETL (Extract, Transform, Load)
+
+Python
+
+SQL
+
+Visualização de Dados
+
+Clouds em geral
+
+
+
+
+
+<h2 align="center">Meus Projetos</h2>
+Em meu repositório você pode encontrar diversos projetos relacionados à análise de dados e à utilização das tecnologias que mencionei acima. Espero que possam ser úteis e que possamos trocar ideias sobre esses temas.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

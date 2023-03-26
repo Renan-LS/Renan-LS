@@ -24,14 +24,15 @@ Clouds em geral
 <h2 align="center">Meus Projetos</h2>
 Em meu repositório você pode encontrar diversos projetos relacionados à análise de dados e à utilização das tecnologias que mencionei acima. Espero que possam ser úteis e que possamos trocar ideias sobre esses temas.
 
+
 Alguns dos projetos que compõem meu portfólio:
 
-- AZURE---DataPipeline---OlistBrazilian-E_Commerce: Concepção de projeto para construção de pipeline de dados com as ferramentas disponibilizadas pela MICROSOFT/AZURE.
-- E-Gov-Analytics: Projeto voltado para Análise de dados e Data Science, no qual é realizado um Analytics de uma base de dados do governo e extram-se alguns insights.
-- Modern-data-stack: O projeto consiste em criar uma pipeline para tratar dados do Covid-19 extraídos do Google Open Data, armazená-los em um Data Warehouse e transformá-los para gerar uma nova fonte de dados, selecionando apenas as informações mais relevantes. A pipeline simula um processo completo de Extração, Carga e Transformação de dados.
-Ferramentas utilizadsa: Airflow, Airbyte, DBT, Snowflake, GitPOD.
-- GCP - Stack Data Pipeline: O objetivo desse projeto foi criar um pipeline de dados para extrair informações de uma base de dados pública acerca do preço dos combustíveis no Brasil.
-Ferramentas utilizadas: Terraform,Github Actions,Airflow,Google Cloud Storage,Big Query,Looker Studio (antigo Data Studio),Google Cloud Dataproc,Google Cloud Run. 
+- **AZURE---DataPipeline---OlistBrazilian-E_Commerce**: Concepção de projeto para construção de pipeline de dados com as ferramentas disponibilizadas pela MICROSOFT/AZURE.
+- **E-Gov-Analytics**: Projeto voltado para Análise de dados e Data Science, no qual é realizado um Analytics de uma base de dados do governo e extram-se alguns insights.
+- **Modern-data-stack**: O projeto consiste em criar uma pipeline para tratar dados do Covid-19 extraídos do Google Open Data, armazená-los em um Data Warehouse e transformá-los para gerar uma nova fonte de dados, selecionando apenas as informações mais relevantes. A pipeline simula um processo completo de Extração, Carga e Transformação de dados.
+*Ferramentas utilizadsa: Airflow, Airbyte, DBT, Snowflake, GitPOD.*
+- **GCP - Stack Data Pipeline**: O objetivo desse projeto foi criar um pipeline de dados para extrair informações de uma base de dados pública acerca do preço dos combustíveis no Brasil.
+*Ferramentas utilizadas: Terraform,Github Actions,Airflow,Google Cloud Storage,Big Query,Looker Studio (antigo Data Studio),Google Cloud Dataproc,Google Cloud Run. *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

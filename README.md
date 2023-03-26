@@ -32,7 +32,7 @@ Alguns dos projetos que compõem meu portfólio:
 - **Modern-data-stack**: O projeto consiste em criar uma pipeline para tratar dados do Covid-19 extraídos do Google Open Data, armazená-los em um Data Warehouse e transformá-los para gerar uma nova fonte de dados, selecionando apenas as informações mais relevantes. A pipeline simula um processo completo de Extração, Carga e Transformação de dados.
 *Ferramentas utilizadsa: Airflow, Airbyte, DBT, Snowflake, GitPOD.*
 - **GCP - Stack Data Pipeline**: O objetivo desse projeto foi criar um pipeline de dados para extrair informações de uma base de dados pública acerca do preço dos combustíveis no Brasil.
-*Ferramentas utilizadas: Terraform,Github Actions,Airflow,Google Cloud Storage,Big Query,Looker Studio (antigo Data Studio),Google Cloud Dataproc,Google Cloud Run. *
+*Ferramentas utilizadas: Terraform,Github Actions,Airflow,Google Cloud Storage,Big Query,Looker Studio (antigo Data Studio),Google Cloud Dataproc,Google Cloud Run.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

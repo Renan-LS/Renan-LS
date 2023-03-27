@@ -31,7 +31,7 @@ Alguns dos projetos que compõem meu portfólio:
 - **AZURE---DataPipeline---OlistBrazilian-E_Commerce**: Concepção de projeto para construção de pipeline de dados com as ferramentas disponibilizadas pela MICROSOFT/AZURE. 
 
 
-- **E-Gov-Analytics**: Projeto voltado para Análise de dados e Data Science, no qual é realizado um Analytics de uma base de dados do governo e extram-se alguns insights.
+- **E-Gov-Analytics**: Projeto voltado para Análise de dados e Data Science, no qual é realizado uma análise de uma base de dados do governo e extrai-se alguns insights.
 - **Modern-data-stack**: O projeto consiste em criar uma pipeline para tratar dados do Covid-19 extraídos do Google Open Data, armazená-los em um Data Warehouse e transformá-los para gerar uma nova fonte de dados, selecionando apenas as informações mais relevantes. A pipeline simula um processo completo de Extração, Carga e Transformação de dados.
 
   ***Ferramentas utilizadas: Airflow, Airbyte, DBT, Snowflake, GitPOD.***

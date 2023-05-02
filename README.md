@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Sou Renan L.</h1>
-Sou analista de BI e tenho como objetivo crescer na área de dados, seja como cientista, engenheiro ou até analista de dados. Acredito que a análise de dados é fundamental para a tomada de decisões assertivas, e é por isso que busco me aprimorar cada vez mais nessa área.
+Sou analista de dados e tenho como objetivo crescer na área de dados, seja como cientista, engenheiro ou até analista de dados. Acredito que a análise de dados é fundamental para a tomada de decisões assertivas, e é por isso que busco me aprimorar cada vez mais nessa área.
 
 <h2 align="center">Tecnologias e Habilidades</h2>
 As tecnologias com as quais tenho mais afinidade e costumo utilizar em meus projetos são:
